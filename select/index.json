@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "人間として",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2025-12-01T13:42:05.366923Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "人間として",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_人間として_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "人間として",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/02_人間として_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "人間として",
+      "artist": "Shiina, Ringo",
+      "has_synced": true,
+      "path": "select/03_人間として_Shiina,_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "人間として - as a human",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/04_人間として_-_as_a_human_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人間として",
+      "artist": "poor man's rose",
+      "has_synced": false,
+      "path": "select/pl_01_人間として_poor_man's_rose.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "人間として",
+      "artist": "poor man's rose",
+      "has_synced": false,
+      "path": "select/pl_02_人間として_poor_man's_rose.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "人間として",
+      "artist": "poor man's rose",
+      "has_synced": false,
+      "path": "select/pl_03_人間として_poor_man's_rose.txt"
+    }
+  ]
+}
